@@ -3,5 +3,5 @@ function getFirstSelector(selector) {
 }
 
 function nestedTarget(target) {
-  return document.querySelector();
+  return document.querySelector('main.nested');
 }
